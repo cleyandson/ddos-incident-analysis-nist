@@ -1,4 +1,4 @@
-# Análise de Incidente DDoS
+# Análise de Incidente DDoS e Proposta de Fortalecimento de Rede
 
 <div align="right">
 <a href="./README.md">View in English 🇺🇸</a>
